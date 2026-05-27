@@ -50,9 +50,9 @@ and replace `YOUR_API_KEY_HERE` in the notebook.
 ## 📸 Screenshots & Demo
 > Add screenshots of your Power BI dashboard here
 
-![Dashboard Page 1](screenshots/1- Overview page .png)
-![Dashboard Page 2](screenshots/2 - customer segment page.png)
-![Dashboard Page 3](screenshots/3- Prediction page .png)
+![Dashboard Page 1](screenshots/page1.png)
+![Dashboard Page 2](screenshots/page2.png)
+![Dashboard Page 3](screenshots/page3.png)
 
 ## 👤 Author
 Ishwari Punyarthi 
