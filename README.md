@@ -50,11 +50,9 @@ and replace `YOUR_API_KEY_HERE` in the notebook.
 ## 📸 Screenshots & Demo
 > Add screenshots of your Power BI dashboard here
 
-[Dashboard Page 1]
-https://github.com/ishwaripunyarthi/Customer-Churn-Prediction-Analysis-Telecom/blob/main/1-%20Overview%20page%20.png
-[Dashboard Page 2]
-
-[Dashboard Page 3](screenshots/page3.png)
+![Dashboard Page 1](screenshots/)
+![Dashboard Page 2](screenshots/page2.png)
+![Dashboard Page 3](screenshots/page3.png)
 
 ## 👤 Author
 **Your Name**
