@@ -55,5 +55,4 @@ and replace `YOUR_API_KEY_HERE` in the notebook.
 ![Dashboard Page 3](screenshots/3- Prediction page .png)
 
 ## 👤 Author
-**Your Name**
-[LinkedIn](#) | [GitHub](#)
+Ishwari Punyarthi 
